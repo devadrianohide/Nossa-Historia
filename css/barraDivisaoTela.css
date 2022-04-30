@@ -1,0 +1,35 @@
+/************************LINHA BRANCA*/
+
+
+
+
+.divDedivisaoDeTela {
+    height: 80px;
+    background-color: #FCF6F0;
+    box-shadow: inset 1px 1px 3px  black;
+}
+
+.repart {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    width: 1600px;
+    margin: 0 auto;
+}
+
+.repart>div {
+    background-color: #302415;
+    padding: 10px; 
+}
+
+.repart__paragrafo1{
+    color: #FCF6F0;
+    font-family: 'Redressed', cursive;
+}
+
+.divDivisaoDeTela__h2 {
+    color:#FCF6F0 ;
+    width: 250px;
+    font-family: sans-serif;
+}
