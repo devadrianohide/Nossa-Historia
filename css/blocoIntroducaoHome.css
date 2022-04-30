@@ -88,6 +88,10 @@
         width: 70vw;
        
     }
+
+    .box-imagens img {
+        width: 200px;
+    }
 }
 
 
