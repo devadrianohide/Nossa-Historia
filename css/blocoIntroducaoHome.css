@@ -102,13 +102,14 @@
     }
 
     .DescricaoDoSite {
-        width: 70vw;
+        width: 100vw;
        
     }
 
     .DescricaoDoSite p {
         font-size: 1.2em;
         padding: 10px;
+        text-align: left;
     }
 
     .containerBoxImagens {
